@@ -3,7 +3,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return "5dfdfd00000nfdfdfnnnnn000000000000"
+    return "000000000"
 
 
 
